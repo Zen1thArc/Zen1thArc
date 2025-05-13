@@ -61,16 +61,6 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zen1thArc/Zen1thArc/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zen1thArc/Zen1thArc/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zen1thArc/Zen1thArc/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<br clear="both">
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zen1thArc/Zen1thArc/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zen1thArc/Zen1thArc/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Zen1thArc/Zen1thArc/output/github-snake.svg" />
