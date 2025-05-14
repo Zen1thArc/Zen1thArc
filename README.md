@@ -23,8 +23,6 @@ Hi there! I'm Jero, a web developer from Jakarta, Indonesia who specializes in P
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-
 **Backend Development**
 
 <img src="https://skillicons.dev/icons?i=php,laravel" height="40" alt="Backend" />
@@ -41,8 +39,6 @@ Hi there! I'm Jero, a web developer from Jakarta, Indonesia who specializes in P
 **Currently Learning**
 
 <img src="https://skillicons.dev/icons?i=python,postgres" height="40" alt="Learning" />
-
-</div>
 
 ---
 
