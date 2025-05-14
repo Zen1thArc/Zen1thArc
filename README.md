@@ -25,9 +25,10 @@ Hi there! I'm Jero, a web developer from Jakarta, Indonesia who specializes in P
 
 **Backend Development**
 
-<img src="https://skillicons.dev/icons?i=php" height="40" alt="Backend" />
-<img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Backend" />
+<div style="display: flex; flex-direction: row; gap: 4px">
+<img src="https://skillicons.dev/icons?i=php,laravel" height="40" alt="Backend" />
 <img src="https://files.svgcdn.io/devicon/livewire.svg" height="40" alt="Livewire" />
+</div>
 
 **Frontend Development**
 
